@@ -1,0 +1,9 @@
+Olá
+
+Este e-mail foi enviado para te apresentar o resultado do seu teste.
+Você preencheu o teste no endereço: COLOCAR O ENDEREÇO DO FORMULARIO GOOGLE
+Ficamos a disposição para qualquer esclarecimento que julgue oportuno.
+
+Atenciosamente;
+Equipe de Desenvolvimento e testes python
+--------------------------------------------------------------------------------------------------------------------------

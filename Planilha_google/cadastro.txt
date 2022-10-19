@@ -1,0 +1,12 @@
+>>>>id_planilha
+aqui ID da sua planilha google
+>>>>meu_email
+seu_email@gmail.com
+>>>>passwd
+sua senha API google
+>>>>assunto
+assunto do email python
+>>>>nome_folha_dados
+folha01
+>>>>ultima_coluna
+J
