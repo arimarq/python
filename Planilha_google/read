@@ -1,1 +1,4 @@
-
+Projeto feito para leitura de uma planilha no drive google.
+A ideia é um teste vocacional preenchido num formulario on line no google form.
+Para a correcao dos dados se utiliza o programa feito em Python + Tkinter
+Ao final da correção dos dados pode-se enviar um email resposta para quem preencheu a planilha
